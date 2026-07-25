@@ -1,4 +1,4 @@
-![I am a Junior Front-end developer. ](https://github.com/mostafizurRahaman/mostafizurRahaman/blob/main/images/github-banner.png)
+![I am a Junior Front-end developer. ](https://github.com/mostafizurRahaman/mostafizurRahaman/blob/main/images/desktop-banner.png)
 
 ## :mailbox: Reach me out
 
